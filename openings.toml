@@ -1,0 +1,14 @@
+[white]
+"Scotch Game" = 1
+"Ruy Lopez" = 1
+"King's Gambit" = 1
+
+[black_e4]
+"Berlin Defense" = 1
+"Sicilian Dragon" = 1
+"Sicilian Najdorf" = 1
+"French Defense" = 1
+
+[black_d4]
+"King's Indian Defense" = 1
+"Queen's Gambit Declined" = 1
